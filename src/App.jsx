@@ -35,7 +35,8 @@ function App() {
       setInfo(elementInfo);
     })
   },[])
-  // useEffect(()=>,[fav])
+
+  
   return (
     <div>
       <Header></Header>

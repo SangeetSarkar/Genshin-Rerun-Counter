@@ -8,6 +8,11 @@
     padding-top: 2vh;
     padding-bottom: 2vh;
 }
+
+.favourites-none{
+    display: none;
+}
+
 .favcontainer{
     display: flex;
     flex-direction: column;
@@ -15,7 +20,9 @@
     width:90%;
     padding-bottom:2vh;
     height:auto;
+    border-radius: 6vh;
 }
+
 .favHeading{
     padding:2vh;
     font-size: 3vh;
@@ -32,6 +39,8 @@
     color:white;
     background-color: rgb(98, 154, 173);
     padding-top: 2vh;
+    border-radius: 6vh;
+
     padding-bottom: 2vh;
 }
 
