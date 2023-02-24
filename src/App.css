@@ -20,6 +20,7 @@
   margin-top:1vh;
   margin-bottom: 1vh;
   background-color: navy;
+  border-radius:7vh;
 }
 .cryo,.pyro,.geo,.anemo,.dendro,.electro
 ,.hydro{
