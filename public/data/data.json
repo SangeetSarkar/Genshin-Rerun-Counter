@@ -6,7 +6,7 @@
             "elementColor":"#9ed9e1",
             "elementImg":"Elements/cryo.jpg",
             "characters":[
-                {"charName":"GANYU","src":"Images/character/ganyu.jpg", "date":"2022-09-27","isFav":"false"},
+                {"charName":"GANYU","src":"Images/character/Character_Ganyu_Card.webp   ", "date":"2022-09-27","isFav":"false"},
                 {"charName":"AYAKA","src":"Images/character/ayaka.jpg","date":"2022-05-31","isFav":"false"},
                 {"charName":"EULA","src":"Images/character/eula.jpg","date":"2021-12-14","isFav":"false"}, 
                 {"charName":"SHEHNE","src":"Images/character/shenhe.jpg","date":"2022-01-25","isFav":"false"}
