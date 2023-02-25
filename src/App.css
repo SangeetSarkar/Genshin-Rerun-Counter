@@ -9,6 +9,12 @@
   height: 100%;
   width: 100%;
 }
+
+#video{
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
 .main-container{
   display: flex;
   height:auto;
@@ -21,6 +27,12 @@
   margin-bottom: 1vh;
   background-color: navy;
   border-radius:7vh;
+  background: rgba(107, 93, 93, 0.25);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 .cryo,.pyro,.geo,.anemo,.dendro,.electro
 ,.hydro{
@@ -41,4 +53,5 @@
   margin:1vh;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  
 }
