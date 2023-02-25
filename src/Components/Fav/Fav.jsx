@@ -6,19 +6,6 @@ import './Fav.css'
 function Fav(props){
     const {fav} = props;
     const [visible,setVisible]=useState("favourites");
-   
-
-    // useEffect(()=>{
-    //     console.log(fav)    
-    //     if(fav.size==0)
-    //     {
-    //         setVisible("favCardContainer-none")
-    //     }
-    //     else{
-    //         setVisible("favCardContainer") 
-    //     }
-    // },[fav])
-
 
     return (
         <div className={`favourites${fav.length?"":"-none"}`}>
