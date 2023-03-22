@@ -6,10 +6,10 @@
             "elementColor":"#9ed9e1",
             "elementImg":"Elements/cryo.jpg",
             "characters":[
-                {"charName":"GANYU","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462747/Genshin%20Rerun/ganyu_a60g23.jpg", "date":"2022-09-27","isFav":"false"},
-                {"charName":"AYAKA","src":"Images/character/ayaka.jpg","date":"2022-05-31","isFav":"false"},
-                {"charName":"EULA","src":"Images/character/eula.jpg","date":"2021-12-14","isFav":"false"}, 
-                {"charName":"SHEHNE","src":"Images/character/shenhe.jpg","date":"2022-01-25","isFav":"false"}
+                {"charName":"GANYU","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462747/Genshin%20Rerun/Cryo/ganyu_a60g23.jpg", "date":"2022-09-27","isFav":"false"},
+                {"charName":"AYAKA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462741/Genshin%20Rerun/Cryo/ayaka_fpfvxw.jpg","date":"2022-05-31","isFav":"false"},
+                {"charName":"EULA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462742/Genshin%20Rerun/Cryo/eula_nakjgh.jpg","date":"2021-12-14","isFav":"false"}, 
+                {"charName":"SHEHNE","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462748/Genshin%20Rerun/Cryo/shenhe_fkzzzh.jpg","date":"2022-01-25","isFav":"false"}
             ]
         },
         {
@@ -18,9 +18,9 @@
             "elementColor":"#ef7938",
             "elementImg":"Elements/pyro.png",
             "characters":[
-                {"charName":"HU-TAO","src":"Images/character/hu-tao.jpg","date":"2023-02-28","isFav":"false"},
-                {"charName":"KLEE","src":"Images/character/klee.jpg","date":"2022-08-02","isFav":"false"},
-                {"charName":"YOIMIYA","src":"Images/character/yoimiya.jpg","date":"2022-11-18","isFav":"false"}
+                {"charName":"HU-TAO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462746/Genshin%20Rerun/Pyro/klee_hkgdu4.jpg","date":"2023-02-28","isFav":"false"},
+                {"charName":"KLEE","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462746/Genshin%20Rerun/klee_hkgdu4.jpg","date":"2022-08-02","isFav":"false"},
+                {"charName":"YOIMIYA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462744/Genshin%20Rerun/Pyro/hu-tao_uyavjo.jpg","date":"2022-11-18","isFav":"false"}
             ]
         },
         {
@@ -29,11 +29,11 @@
             "elementColor":"#6accf4",
             "elementImg":"Elements/hydro.png",
             "characters":[
-                {"charName":"AYATO","src":"Images/character/ayato.jpg","date":"2023-01-17","isFav":"false"},
-                {"charName":"CHILDE","src":"Images/character/childe.jpg","date":"2022-12-06","isFav":"false"},
-                {"charName":"KOKOMI","src":"Images/character/kokomi.jpg","date":"2022-09-27","isFav":"false"},
-                {"charName":"NILOU","src":"Images/character/nilou.jpg","date":"2022-11-01","isFav":"false"},
-                {"charName":"YELAN","src":"Images/character/yelan.jpg","date":"2023-02-28","isFav":"false"}
+                {"charName":"AYATO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462742/Genshin%20Rerun/Hydro/ayato_gvzjua.jpg","date":"2023-01-17","isFav":"false"},
+                {"charName":"CHILDE","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462743/Genshin%20Rerun/Hydro/childe_onvc3c.jpg","date":"2022-12-06","isFav":"false"},
+                {"charName":"KOKOMI","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462747/Genshin%20Rerun/Hydro/kokomi_zdc0ix.jpg","date":"2022-09-27","isFav":"false"},
+                {"charName":"NILOU","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462746/Genshin%20Rerun/Hydro/nilou_xdyczw.jpg","date":"2022-11-01","isFav":"false"},
+                {"charName":"YELAN","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462749/Genshin%20Rerun/Hydro/yelan_vvxkzv.jpg","date":"2023-02-28","isFav":"false"}
             ]
         },
         {
@@ -42,10 +42,10 @@
             "elementColor":"#74c2a8",
             "elementImg":"Elements/anemo.png",
             "characters":[
-                {"charName":"KAZUHA","src":"Images/character/kazuha.jpg","date":"2022-08-02","isFav":"false"},
-                {"charName":"WANDERER","src":"Images/character/scaramouche.jpg","date":"2022-12-27","isFav":"false"},
-                {"charName":"VENTI","src":"Images/character/venti.jpg","date":"2022-10-14","isFav":"false"},
-                {"charName":"XIAO","src":"Images/character/xiao.jpg","date":"2023-02-07","isFav":"false"}
+                {"charName":"KAZUHA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462743/Genshin%20Rerun/Anemo/kazuha_uamrlf.jpg","date":"2022-08-02","isFav":"false"},
+                {"charName":"WANDERER","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462748/Genshin%20Rerun/Anemo/scaramouche_bmg81h.jpg","date":"2022-12-27","isFav":"false"},
+                {"charName":"VENTI","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462748/Genshin%20Rerun/Anemo/venti_zbe5dj.jpg","date":"2022-10-14","isFav":"false"},
+                {"charName":"XIAO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462749/Genshin%20Rerun/Anemo/xiao_qo9vtl.jpg","date":"2023-02-07","isFav":"false"}
             ]
         },
         {
@@ -54,9 +54,9 @@
             "elementColor":"#af8ec1",
             "elementImg":"Elements/electro.png",
             "characters":[
-                {"charName":"CYNO","src":"Images/character/cyno.jpg","date":"2022-10-14","isFav":"false"},
-                {"charName":"RAIDEN-SHOGUN","src":"Images/character/raiden.jpg","date":"2023-01-17","isFav":"false"},
-                {"charName":"YAE-MIKO","src":"Images/character/yae.jpg","date":"2022-12-06","isFav":"false"}
+                {"charName":"CYNO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462741/Genshin%20Rerun/Electro/cyno_qrnfr5.jpg","date":"2022-10-14","isFav":"false"},
+                {"charName":"RAIDEN-SHOGUN","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462747/Genshin%20Rerun/Electro/raiden_ghdbwh.jpg","date":"2023-01-17","isFav":"false"},
+                {"charName":"YAE-MIKO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462750/Genshin%20Rerun/Electro/yae_assgz2.jpg","date":"2022-12-06","isFav":"false"}
             ]
         },
         {
@@ -65,9 +65,9 @@
             "elementColor":"#fab632",
             "elementImg":"Elements/geo.png",
             "characters":[
-                {"charName":"ALBEDO","src":"Images/character/albedo.jpg","date":"2022-11-01","isFav":"false"},
-                {"charName":"ITTO","src":"Images/character/itto.jpg","date":"2022-12-27","isFav":"false"},
-                {"charName":"ZHONGLI","src":"Images/character/zhongli.jpg","date":"2022-11-09","isFav":"false"}
+                {"charName":"ALBEDO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462741/Genshin%20Rerun/Geo/albedo_dlvahx.jpg","date":"2022-11-01","isFav":"false"},
+                {"charName":"ITTO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462743/Genshin%20Rerun/Geo/itto_xsmeyb.jpg","date":"2022-12-27","isFav":"false"},
+                {"charName":"ZHONGLI","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462750/Genshin%20Rerun/Geo/zhongli_bwyskl.jpg","date":"2022-11-09","isFav":"false"}
             ]
         },
         {
@@ -76,9 +76,9 @@
             "elementColor":"#a5c83b",
             "elementImg":"Elements/dendro.png",
             "characters":[
-                {"charName":"NAHIDA","src":"Images/character/nahida.jpg","date":"2022-11-18","isFav":"false"},
-                {"charName":"TIGHNARI","src":"Images/character/tighnari.jpg","date":"2022-09-09","isFav":"false"},
-                {"charName":"ALHAITHAM","src":"Images/character/alhaitham.jpg","date":"2023-02-07","isFav":"false"}
+                {"charName":"NAHIDA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462745/Genshin%20Rerun/Dendro/nahida_xjjz6o.jpg","date":"2022-11-18","isFav":"false"},
+                {"charName":"TIGHNARI","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462748/Genshin%20Rerun/Dendro/tighnari_g1ttgv.jpg","date":"2022-09-09","isFav":"false"},
+                {"charName":"ALHAITHAM","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462744/Genshin%20Rerun/Dendro/alhaitham_bvviaj.jpg","date":"2023-02-07","isFav":"false"}
             ]
         }
     ]
