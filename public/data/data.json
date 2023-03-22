@@ -18,9 +18,9 @@
             "elementColor":"#ef7938",
             "elementImg":"Elements/pyro.png",
             "characters":[
-                {"charName":"HU-TAO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462746/Genshin%20Rerun/Pyro/klee_hkgdu4.jpg","date":"2023-02-28","isFav":"false"},
-                {"charName":"KLEE","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462746/Genshin%20Rerun/klee_hkgdu4.jpg","date":"2022-08-02","isFav":"false"},
-                {"charName":"YOIMIYA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462744/Genshin%20Rerun/Pyro/hu-tao_uyavjo.jpg","date":"2022-11-18","isFav":"false"}
+                {"charName":"HU-TAO","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462744/Genshin%20Rerun/Pyro/hu-tao_uyavjo.jpg","date":"2023-02-28","isFav":"false"},
+                {"charName":"KLEE","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462746/Genshin%20Rerun/Pyro/klee_hkgdu4.jpg","date":"2022-08-02","isFav":"false"},
+                {"charName":"YOIMIYA","src":"https://res.cloudinary.com/genshin-rerun-counter/image/upload/v1679462749/Genshin%20Rerun/Pyro/yoimiya_gdiw7p.jpg","date":"2022-11-18","isFav":"false"}
             ]
         },
         {
