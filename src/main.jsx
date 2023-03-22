@@ -5,7 +5,12 @@ import './index.css'
 import './Font/font.ttf'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  // <CloudinaryContext cloudName="dokwc408w" apiKey="959999918741761" apiSecret="7vmNt3qxbUpc-s0lCwU_8TRa75U">
+  //   {
+      <React.StrictMode>
+      <App />
+      </React.StrictMode>
+  //   }
+  // </CloudinaryContext>
+
 )

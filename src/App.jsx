@@ -40,9 +40,6 @@ function App() {
   return (
     <div>
       <Header></Header>
-      {/* <video id="video">
-        <source src="/vids/GI_Main_Page_Background_Video.mp4" type="video/mp4" />
-      </video> */}
       <Fav fav={fav} ></Fav>
       {
         info?.map((element, elemIdx)=>( 
